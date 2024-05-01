@@ -18,7 +18,6 @@
   },
   "type": "library",
   "dependencies": {
-    "com.nekometer.esnya.inari-udon": "9.1.0",
     "com.unity.textmeshpro": "2.1.6"
   },
   "legacyFolders": [
